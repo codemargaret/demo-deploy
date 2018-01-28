@@ -1,15 +1,12 @@
 # _Demo Deploy_
 
-#### _An simple Angular app deployed to Heroku, 01.28.2018_
+#### _A simple Angular app deployed to Heroku, 01.28.2018_
 
 #### By _**Margaret Berry**_
 
 ## Project Goals
 * _Practice deploying an Angular 2 app to Heroku._
 * _Prepare to deploy my capstone project, IntervYou, to Heroku._
-
-## Future Features
-* _Enable users to edit recipes._
 
 ## Setup/Installation Requirements
 _This project is available to view live [here](https://margaret-demo-deploy.herokuapp.com/)_
