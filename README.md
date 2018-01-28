@@ -26,6 +26,9 @@ _If you have issues, questions, ideas, or concerns, please contact [Margaret](co
 * _Angular 2_
 * _Heroku_
 
+## Acknowledgements
+_Thank you to Tunmbi for his helpful [tutorial](https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147)._
+
 ### License
 *This software is licensed under the MIT license.*
 
